@@ -13,6 +13,4 @@ git clone https://github.com/White-Heaven/Admin-panel-.git
 
 cd Admin-panel-
 
-pip install urllib3
-
 python3 security-admin.py
