@@ -1,16 +1,17 @@
 # Admin-panel-
 Admin panel finder
 
-Security-Admin
-Finder Web Site Admin Login Page
+# Security-Admin
+## Finder Web Site Admin Login Page
 
 Mode Of Execution:
-apt-get install python3
+`•apt-get install python3`
 
-apt-get install git
+`•apt-get install git`
 
-git clone https://github.com/White-Heaven/Admin-panel-.git 
+`•git clone https://github.com/White-Heaven/Admin-panel-.git `
 
-cd Admin-panel-
+`•cd Admin-panel-`
+## And Run Commands
 
-python3 security-admin.py
+`•python3 security-admin.py`
