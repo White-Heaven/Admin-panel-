@@ -4,7 +4,7 @@ Admin panel finder
 # Security-Admin
 ## Finder Web Site Admin Login Page
 
-Mode Of Execution:
+## Follow My Commands
 `•apt-get install python3`
 
 `•apt-get install git`
