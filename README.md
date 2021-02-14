@@ -17,7 +17,7 @@ Admin panel finder
 `•python3 security-admin.py`
 ###photo
 
-![hack](https://user-images.githubusercontent.com/65353899/107873014-f35ccf00-6ed4-11eb-848b-8a3323eb46c4.jpg)
+
 
 
 
