@@ -15,5 +15,8 @@ Admin panel finder
 ## And Run Commands
 
 `•python3 security-admin.py`
+###photo
+
+
 
 
